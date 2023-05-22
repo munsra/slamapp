@@ -1,4 +1,4 @@
-package com.example.slamapp
+package it.pierosilvestri.slamapp
 
 import io.flutter.embedding.android.FlutterActivity
 
